@@ -29,17 +29,13 @@ I held a workshop about [Creating an interactive readme in playgrounds](https://
 
 ## Education
 
-### Hogeschool voor de Kunsten Utrecht
-#### Bachelor of Arts and Techonoly, Digital Media Design ∙ 2009-2013
+### Hogeschool voor de Kunsten Utrecht ∙ Bachelor of Arts and Techonoly, Digital Media Design ∙ 2009-2013
 
-### Auckland University of techologies
-#### Bachelor of Creative Technologies ∙ 2012
+### Auckland University of techologies ∙ Bachelor of Creative Technologies ∙ 2012
  - Exchange program for one semester
 
-### University of Utrecht
-#### Liberal Arts & Sciences ∙ 2006 - 2009
+### University of Utrecht ∙ Liberal Arts & Sciences ∙ 2006 - 2009
 - Major in Cognitive Artificial Intelligence ∙ Minor in Biogeology
 - *Unfinished due to personal reasons*
 
-### Werkplaats Kindergemeenschap - Kees Boeke
-#### VWO high school diploma ∙ 1999 - 2005
+### Werkplaats Kindergemeenschap ∙ VWO high school diploma ∙ 1999 - 2005
