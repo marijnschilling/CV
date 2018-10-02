@@ -6,7 +6,7 @@ I love writing code that is easy to read and easy to manage, for others and my f
 
 ### Bakken&Baeck | Amsterdam | June 2016 - current
 #### iOS Developer
-At bakken & Baeck I became part of an international team of skilled developers. Next to developing apps for big clients, we work on creating our own [frameworks](https://github.com/UseSweet) and [iOS-handbook](https://github.com/bakkenbaeck/iOS-handbook).
+At Bakken & Baeck I became part of an international team of skilled developers. Next to developing apps for big clients we work on creating our own [frameworks](https://github.com/UseSweet) and [iOS-Handbook](https://github.com/bakkenbaeck/iOS-handbook).
 
 **Main projects**: [Coinbase Wallet](https://itunes.apple.com/us/app/coinbase-bitcoin-wallet/id886427730?mt=8), [Daylight](https://daylight.today/)
 
@@ -25,7 +25,7 @@ For 6 months I worked alongside [Eric Paul](https://www.linkedin.com/in/lecluse/
 ## Other Experience
 
 ### Workshop mentor at [Swift Island](https://swiftisland.nl/)
-I held a workshop on how to [creating an interactive readme in playgrounds](https://github.com/SwiftIsland/Playgrounds)
+I held a workshop on how to [create an interactive readme in playgrounds](https://github.com/SwiftIsland/Playgrounds)
 
 ## Education
 
