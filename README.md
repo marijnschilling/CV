@@ -29,9 +29,9 @@ I held a workshop on how to [creating an interactive readme in playgrounds](http
 
 ## Education
 
-### Hogeschool voor de Kunsten Utrecht | Bachelor of Arts and Techonoly, Digital Media Design | 2009-2013
+### Hogeschool voor de Kunsten Utrecht | Bachelor of Arts and Technology, Digital Media Design | 2009-2013
 
-### Auckland University of techologies | Bachelor of Creative Technologies | 2012
+### Auckland University of technologies | Bachelor of Creative Technologies | 2012
  - Exchange program for one semester
 
 ### University of Utrecht | Liberal Arts & Sciences | 2006 - 2009
