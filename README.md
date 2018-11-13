@@ -8,7 +8,7 @@ I love writing code that is easy to read and easy to manage, for others and my f
 #### iOS Developer
 At Bakken & Baeck I became part of an international team of skilled developers. Next to developing apps for big clients we work on creating our own [frameworks](https://github.com/UseSweet) and [iOS-Handbook](https://github.com/bakkenbaeck/iOS-handbook).
 
-**Main projects**: [Coinbase Wallet](https://itunes.apple.com/us/app/coinbase-bitcoin-wallet/id886427730?mt=8), [Daylight](https://daylight.today/)
+**Main projects**: [Coinbase Wallet](https://wallet.coinbase.com/), [Daylight](https://daylight.today/)
 
 ### Fonk | Amsterdam | August 2014 - May 2016 | Amsterdam
 #### iOS Developer
